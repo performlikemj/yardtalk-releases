@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>YardTalk</title>
+        <item>
+            <title>1.4.0</title>
+            <pubDate>Mon, 27 Jul 2026 00:23:30 +0900</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/performlikemj/yardtalk-releases/releases/download/v1.4.0/YardTalk.dmg" length="6946397" type="application/octet-stream" sparkle:edSignature="Dxf7qunXTGTyDvsZAsLMXJE1soI5MLuUUjn/XHgbmWXm12Fp0vwz8smZuGeZXIbsO2FZFYCZgCs47GtzmtJDDg=="/>
+        </item>
+    </channel>
+</rss>
