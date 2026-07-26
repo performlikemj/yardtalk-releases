@@ -14,11 +14,13 @@ YardTalk lives in your menu bar and captures your work sessions the way you'd ex
 
 ## Download
 
-The first public release is being prepared — watch this repo (Releases) for the notarized download.
+**[⬇ Download YardTalk](https://github.com/performlikemj/yardtalk-releases/releases/latest/download/YardTalk.dmg)** — notarized DMG, auto-updates via Sparkle. ([All releases](https://github.com/performlikemj/yardtalk-releases/releases))
 
 ## Purchase & licensing
 
-YardTalk is a paid app (one-time license, 3 devices). The purchase link will appear here with the first release. License keys look like `YT-XXXX-XXXX-XXXX` and activate in-app under **Settings → License**.
+**[Buy a license — $20, one-time](https://buy.stripe.com/cNi28sfe41JxcqWfVR4F200)** · works on up to 3 of your Macs.
+
+Your `YT-XXXX-XXXX-XXXX` key arrives by email right after checkout (with a download link, if you haven't installed yet). Activate in-app under **Settings → Enter License Key**. Didn't get the email? Reply to it or open an issue here.
 
 ## Release notes
 
