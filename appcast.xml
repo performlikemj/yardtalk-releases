@@ -3,6 +3,14 @@
     <channel>
         <title>YardTalk</title>
         <item>
+            <title>1.5</title>
+            <pubDate>Sat, 17 Oct 2026 15:17:56 +0900</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/performlikemj/yardtalk-releases/releases/download/v1.5/YardTalk.dmg" length="7429427" type="application/octet-stream" sparkle:edSignature="jlmU9GZeuVHa69lFHqi2k9xH2/r5fx2zHpgVitWNiurrnf3OK4Fp2U6i0ccngBzwgEN9k5jvcLPjiTX2r3CxDg=="/>
+        </item>
+        <item>
             <title>1.4.1</title>
             <pubDate>Fri, 31 Jul 2026 06:25:21 +0900</pubDate>
             <sparkle:version>6</sparkle:version>
